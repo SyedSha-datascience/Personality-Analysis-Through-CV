@@ -13,7 +13,3 @@ It also comes with a **career guidance chatbot** for interactive support.
 - ⚖️ Compare two CVs side by side  
 - 🏆 Rank multiple CVs against a job description  
 - 🤖 Built-in **career guidance chatbot** (Tkinter UI)
-
----
-
-## 📂 Project Structure
